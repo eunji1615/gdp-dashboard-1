@@ -50,7 +50,7 @@ participants = {
     "전이정": {
         "description": "감미로운 미성과 안정적인 라이브 실력을 겸비한 보컬. 듣는 사람의 마음을 울리는 호소력이 짙습니다.",
         "image": "https://i.namu.wiki/i/18cTdSMRqIHoXmfJuczT7mVQgW5sRZEack7czNtIfpiadEg9Tggapk6Ap5S25qdsIFqCIRSB9QhV_bnLigXz3A.webp",
-        "traits": {"position": "보컬", "concept": "감성&청순", "charm": "감성적인 아티스트"}
+        "traits": {"position": "보컬", "concept": "감성&청순", "charm": "활기찬 반전 매력"}
     },
     "리즈하오": {
         "description": "모델 같은 피지컬과 화려한 비주얼이 돋보이는 올라운더. 비주얼 뿐만 아니라 실력까지 갖춘 노력파입니다.",
